@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Albums>
+    <Album>
+        <id>3</id>
+        <titre>Vrealite</titre>
+        <duree>2183</duree>
+        <artiste>Kekra</artiste>
+        <date>2019-06-21</date>
+        <Chanson>
+            <id>24</id>
+            <titre>Kohhkra</titre>
+            <duree>142</duree>
+            <artiste>Kekra</artiste>
+            <contenu>xxxx</contenu>
+            <genre>HIPHOP</genre>
+            <date>2019-06-21</date>
+        </Chanson>
+        <Chanson>
+            <id>25</id>
+            <titre>Vrealite</titre>
+            <duree>458</duree>
+            <artiste>Kekra</artiste>
+            <contenu>xxxx</contenu>
+            <genre>HIPHOP</genre>
+            <date>2019-06-21</date>
+        </Chanson>
+        <Chanson>
+            <id>26</id>
+            <titre>COD</titre>
+            <duree>360</duree>
+            <artiste>Kekra</artiste>
+            <contenu>xxxx</contenu>
+            <genre>HIPHOP</genre>
+            <date>2019-06-21</date>
+        </Chanson>
+        <Chanson>
+            <id>30</id>
+            <titre>Dore</titre>
+            <duree>240</duree>
+            <artiste>Kekra</artiste>
+            <contenu>xxxx</contenu>
+            <genre>HIPHOP</genre>
+            <date>2019-06-21</date>
+        </Chanson>
+        <Chanson>
+            <id>27</id>
+            <titre>Lights Out</titre>
+            <duree>195</duree>
+            <artiste>Kekra</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2019-06-21</date>
+        </Chanson>
+        <Chanson>
+            <id>28</id>
+            <titre>CLS</titre>
+            <duree>70</duree>
+            <artiste>Kekra</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2019-06-21</date>
+        </Chanson>
+        <Chanson>
+            <id>29</id>
+            <titre>Chut</titre>
+            <duree>300</duree>
+            <artiste>Kekra</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2019-06-21</date>
+        </Chanson>
+    </Album>
+    <Album>
+        <id>1</id>
+        <titre>Without Warning</titre>
+        <duree>2543</duree>
+        <artiste>21 Savage</artiste>
+        <date>2017-10-30</date>
+        <Chanson>
+            <id>3</id>
+            <titre>Ghostface Killers</titre>
+            <duree>270</duree>
+            <artiste>21 Savage</artiste>
+            <contenu>xxxx</contenu>
+            <genre>RAP</genre>
+            <date>2017-10-30</date>
+        </Chanson>
+        <Chanson>
+            <id>4</id>
+            <titre>Rap Saved Me</titre>
+            <duree>260</duree>
+            <artiste>21 Savage</artiste>
+            <contenu>xxxx</contenu>
+            <genre>RAP</genre>
+            <date>2017-10-30</date>
+        </Chanson>
+        <Chanson>
+            <id>5</id>
+            <titre>Ric Flair Drip</titre>
+            <duree>200</duree>
+            <artiste>21 Savage</artiste>
+            <contenu>xxxx</contenu>
+            <genre>RAP</genre>
+            <date>2017-10-30</date>
+        </Chanson>
+        <Chanson>
+            <id>6</id>
+            <titre>My Choppa Hate Niggas</titre>
+            <duree>263</duree>
+            <artiste>21 Savage</artiste>
+            <contenu>xxxx</contenu>
+            <genre>RAP</genre>
+            <date>2017-10-30</date>
+        </Chanson>
+        <Chanson>
+            <id>7</id>
+            <titre>Nightmare</titre>
+            <duree>254</duree>
+            <artiste>21 Savage</artiste>
+            <contenu>xxxx</contenu>
+            <genre>RAP</genre>
+            <date>2017-10-30</date>
+        </Chanson>
+        <Chanson>
+            <id>8</id>
+            <titre>Mad Stalkers</titre>
+            <duree>261</duree>
+            <artiste>21 Savage</artiste>
+            <contenu>xxxx</contenu>
+            <genre>RAP</genre>
+            <date>2017-10-30</date>
+        </Chanson>
+        <Chanson>
+            <id>9</id>
+            <titre>Disrespectful</titre>
+            <duree>263</duree>
+            <artiste>21 Savage</artiste>
+            <contenu>xxxx</contenu>
+            <genre>RAP</genre>
+            <date>2017-10-30</date>
+        </Chanson>
+        <Chanson>
+            <id>10</id>
+            <titre>Run Up the Racks</titre>
+            <duree>265</duree>
+            <artiste>21 Savage</artiste>
+            <contenu>xxxx</contenu>
+            <genre>RAP</genre>
+            <date>2017-10-30</date>
+        </Chanson>
+        <Chanson>
+            <id>11</id>
+            <titre>Still Serving</titre>
+            <duree>247</duree>
+            <artiste>21 Savage</artiste>
+            <contenu>xxxx</contenu>
+            <genre>RAP</genre>
+            <date>2017-10-30</date>
+        </Chanson>
+        <Chanson>
+            <id>12</id>
+            <titre>Darth Vader</titre>
+            <duree>260</duree>
+            <artiste>21 Savage</artiste>
+            <contenu>xxxx</contenu>
+            <genre>RAP</genre>
+            <date>2017-10-30</date>
+        </Chanson>
+    </Album>
+    <Album>
+        <id>2</id>
+        <titre>Runaljod</titre>
+        <duree>2181</duree>
+        <artiste>Wardruna</artiste>
+        <date>2008-05-20</date>
+        <Chanson>
+            <id>16</id>
+            <titre>Ar var alda</titre>
+            <duree>140</duree>
+            <artiste>Wardruna</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2009-01-19</date>
+        </Chanson>
+        <Chanson>
+            <id>17</id>
+            <titre>Hagall</titre>
+            <duree>458</duree>
+            <artiste>Wardruna</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2009-01-19</date>
+        </Chanson>
+        <Chanson>
+            <id>18</id>
+            <titre>Bjarkan</titre>
+            <duree>360</duree>
+            <artiste>Wardruna</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2009-01-19</date>
+        </Chanson>
+        <Chanson>
+            <id>19</id>
+            <titre>Loyndomsriss</titre>
+            <duree>195</duree>
+            <artiste>Wardruna</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2009-01-19</date>
+        </Chanson>
+        <Chanson>
+            <id>20</id>
+            <titre>Thurs</titre>
+            <duree>70</duree>
+            <artiste>Wardruna</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2009-01-19</date>
+        </Chanson>
+        <Chanson>
+            <id>21</id>
+            <titre>Jara</titre>
+            <duree>300</duree>
+            <artiste>Wardruna</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2009-01-19</date>
+        </Chanson>
+        <Chanson>
+            <id>22</id>
+            <titre>Laukr</titre>
+            <duree>240</duree>
+            <artiste>Wardruna</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2009-01-19</date>
+        </Chanson>
+        <Chanson>
+            <id>23</id>
+            <titre>Kauna</titre>
+            <duree>150</duree>
+            <artiste>Wardruna</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2009-01-19</date>
+        </Chanson>
+        <Chanson>
+            <id>13</id>
+            <titre>Heimta Thurs</titre>
+            <duree>268</duree>
+            <artiste>Wardruna</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2009-01-19</date>
+        </Chanson>
+    </Album>
+</Albums>

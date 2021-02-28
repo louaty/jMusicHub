@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Playlists>
+    <Playlist>
+        <id>1</id>
+        <nom>Playlist2020</nom>
+        <Chanson>
+            <id>1</id>
+            <titre>Vertigo</titre>
+            <duree>138</duree>
+            <artiste>BONES</artiste>
+            <contenu>xxxx</contenu>
+            <genre>ROCK</genre>
+            <date>2020-02-25</date>
+        </Chanson>
+        <LivreAudio>
+            <id>1</id>
+            <titre>Le Comte de Monte Cristo Séquence 1</titre>
+            <duree>780</duree>
+            <auteur>Francis Perrin</auteur>
+            <contenu>xxxxx</contenu>
+            <langue>FRANCAIS</langue>
+            <categorie>ROMAN</categorie>
+        </LivreAudio>
+    </Playlist>
+    <Playlist>
+        <id>2</id>
+        <nom>PlaylistMoyenAge</nom>
+        <Chanson>
+            <id>2</id>
+            <titre>A Celtic Lore</titre>
+            <duree>200</duree>
+            <artiste>Adrian Von Ziegler</artiste>
+            <contenu>xxxx</contenu>
+            <genre>CLASSIQUE</genre>
+            <date>2012-12-12</date>
+        </Chanson>
+        <LivreAudio>
+            <id>2</id>
+            <titre>Les anciens de Saint Loup - Intro</titre>
+            <duree>190</duree>
+            <auteur>Pierre Very</auteur>
+            <contenu>xxxxx</contenu>
+            <langue>FRANCAIS</langue>
+            <categorie>ROMAN</categorie>
+        </LivreAudio>
+    </Playlist>
+    <Playlist>
+        <id>6</id>
+        <nom>testp</nom>
+        <Chanson>
+            <id>12</id>
+            <titre>Darth Vader</titre>
+            <duree>260</duree>
+            <artiste>21 Savage</artiste>
+            <contenu>xxxx</contenu>
+            <genre>RAP</genre>
+            <date>2017-10-30</date>
+        </Chanson>
+        <Chanson>
+            <id>11</id>
+            <titre>Still Serving</titre>
+            <duree>247</duree>
+            <artiste>21 Savage</artiste>
+            <contenu>xxxx</contenu>
+            <genre>RAP</genre>
+            <date>2017-10-30</date>
+        </Chanson>
+        <LivreAudio>
+            <id>6</id>
+            <titre>Valhalla and the Viking Afterlife w/ Tom Shippey</titre>
+            <duree>1500</duree>
+            <auteur>The History of Vikings</auteur>
+            <contenu>xxxxx</contenu>
+            <langue>ANGLAIS</langue>
+            <categorie>DOCUMENTAIRE</categorie>
+        </LivreAudio>
+        <LivreAudio>
+            <id>7</id>
+            <titre>Le Capitaine Fracasse</titre>
+            <duree>1680</duree>
+            <auteur>Théophile Gautier</auteur>
+            <contenu>xxxxx</contenu>
+            <langue>FRANCAIS</langue>
+            <categorie>THEATRE</categorie>
+        </LivreAudio>
+    </Playlist>
+</Playlists>
